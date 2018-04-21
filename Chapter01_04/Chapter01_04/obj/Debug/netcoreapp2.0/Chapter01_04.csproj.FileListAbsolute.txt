@@ -1,0 +1,11 @@
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\bin\Debug\netcoreapp2.0\Chapter01_04.deps.json
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\bin\Debug\netcoreapp2.0\Chapter01_04.runtimeconfig.json
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\bin\Debug\netcoreapp2.0\Chapter01_04.runtimeconfig.dev.json
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\bin\Debug\netcoreapp2.0\Chapter01_04.dll
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\bin\Debug\netcoreapp2.0\Chapter01_04.pdb
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\obj\Debug\netcoreapp2.0\Chapter01_04.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\obj\Debug\netcoreapp2.0\Chapter01_04.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\obj\Debug\netcoreapp2.0\Chapter01_04.AssemblyInfoInputs.cache
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\obj\Debug\netcoreapp2.0\Chapter01_04.AssemblyInfo.cs
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\obj\Debug\netcoreapp2.0\Chapter01_04.dll
+C:\Users\Mirim\source\repos\Chapter01_04\Chapter01_04\obj\Debug\netcoreapp2.0\Chapter01_04.pdb

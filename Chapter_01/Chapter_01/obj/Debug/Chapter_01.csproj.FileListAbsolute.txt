@@ -1,0 +1,7 @@
+c:\users\mirim\source\repos\Chapter_01\Chapter_01\bin\Debug\Chapter_01.exe.config
+c:\users\mirim\source\repos\Chapter_01\Chapter_01\bin\Debug\Chapter_01.exe
+c:\users\mirim\source\repos\Chapter_01\Chapter_01\bin\Debug\Chapter_01.pdb
+c:\users\mirim\source\repos\Chapter_01\Chapter_01\obj\Debug\Chapter_01.csprojResolveAssemblyReference.cache
+c:\users\mirim\source\repos\Chapter_01\Chapter_01\obj\Debug\Chapter_01.csproj.CoreCompileInputs.cache
+c:\users\mirim\source\repos\Chapter_01\Chapter_01\obj\Debug\Chapter_01.exe
+c:\users\mirim\source\repos\Chapter_01\Chapter_01\obj\Debug\Chapter_01.pdb
